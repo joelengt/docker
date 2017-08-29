@@ -1,6 +1,6 @@
 # Project variables
 PROJECT_NAME ?= users
-ORG_NAME ?= riqra
+ORG_NAME ?= web-services
 REPO_NAME ?= users
 
 # Filenames
